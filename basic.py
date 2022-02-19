@@ -1,0 +1,1 @@
+print("How to do sentence splitting without delimiters?")
